@@ -1,60 +1,49 @@
-<h1 align="center">Hi there, I'm Muhammad Aziz</h1>
+<h1 align="center">Hi, I'm Muhammad Aziz </h1>
+<h3 align="center">Undergraduate IT Student | Full-Stack, AI/ML & IoT Developer</h3>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> Tech Stack I'm Learning & Using
+<br/>
 
-<table align='center'>
-<tr>
+Menghubungkan *software*, *hardware*, dan *data*. Saat ini sedang menyelesaikan studi Teknik Informatika di Politeknik Negeri Lhokseumawe, dengan fokus membangun aplikasi yang berdampak, dari sistem cerdas berbasis *machine learning* hingga integrasi IoT. 🏆 Pemenang 1st Place Data Science Hackathon.
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
-  <br>Python
-  </td>
+<br/>
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="45" height="45" />
-  <br>Django
-  </td>
+### 🛠️ Tech Stack & Tools
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
-  <br>JavaScript
-  </td>
+**Web Development (Full-Stack)**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,nextjs,tailwind,vite" />
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45" />
-  <br>React
-  </td>
+**AI, Data Science & Machine Learning**<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi" />
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="45" height="45" />
-  <br>Flask
-  </td>
+**IoT, System & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,ubuntu,nginx,git,postman" />
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Sklearn" width="45" height="45" />
-  <br>Sklearn
-  </td>
+<br/>
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="45" height="45" />
-  <br>Tensorflow
-  </td>
+### 🚀 Highlighted Projects
 
-</tr>
-</table>
+| Proyek | Deskripsi | Tech Stack Utama |
+| :--- | :--- | :--- |
+| **PetroChain** | Sistem distribusi bahan bakar otomatis dengan autentikasi RFID, deteksi plat nomor (YOLO+OCR), dan profil AI. | Python, YOLO, OpenCV, ESP32 |
+| **OenKayeeAI** | Aplikasi *deep learning* untuk mendeteksi penyakit daun tanaman pertanian. | PyTorch, MobileNetV2, FastAPI, React |
+| **Si Pekat** | Sistem peringatan dini banjir berbasis IoT dan *decision support system*. | ESP32, FastAPI, XGBoost |
+| **eRoomControl** | Aplikasi manajemen jadwal praktikum laboratorium universitas. | PHP, Laravel, Filament v3 |
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhrss&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+<br/>
 
-###
+### 📊 GitHub Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafhrss/Rafhrss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafhrss/Rafhrss/output/pacman-contribution-graph.svg">
-  
-</picture>
+<div align="center">
+  <a href="https://github.com/USERNAME_GITHUB_KAMU">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff"/>
+  </a>
+  <a href="https://github.com/USERNAME_GITHUB_KAMU">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff"/>
+  </a>
+</div>
 
-###
+<br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsRafsh&label=Profile%20views&color=0e75b6&style=flat" alt="ItsRafsh" width="" height="40px"/></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
