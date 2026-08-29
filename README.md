@@ -24,9 +24,9 @@ Menghubungkan *software*, *hardware*, dan *data*. Saat ini sedang menyelesaikan 
 
 | Proyek | Deskripsi | Tech Stack Utama |
 | :--- | :--- | :--- |
-| **PetroChain** | Sistem distribusi bahan bakar otomatis dengan autentikasi RFID, deteksi plat nomor (YOLO+OCR), dan profil AI. | Python, YOLO, OpenCV, ESP32 |
+| **PetroChain** | Platform Intelligent Verification dan Audit untuk Penguatan Distribusi BBM Bersubsidi pada Ekosistem MyPertamina I. | Python, YOLO, OpenCV, ESP32, OCR, Blockchain |
 | **OenKayeeAI** | Aplikasi *deep learning* untuk mendeteksi penyakit daun tanaman pertanian. | PyTorch, MobileNetV2, FastAPI, React |
-| **Si Pekat** | Sistem peringatan dini banjir berbasis IoT dan *decision support system*. | ESP32, FastAPI, XGBoost |
+| **Aqua sentinel** | Sistem peringatan dini banjir berbasis IoT dan *decision support system*. | ESP32, FastAPI, XGBoost |
 | **eRoomControl** | Aplikasi manajemen jadwal praktikum laboratorium universitas. | PHP, Laravel, Filament v3 |
 
 <br/>
